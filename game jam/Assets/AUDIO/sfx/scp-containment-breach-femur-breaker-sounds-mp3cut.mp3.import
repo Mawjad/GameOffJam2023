@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://53ld4f1d8duy"
+path="res://.godot/imported/scp-containment-breach-femur-breaker-sounds-mp3cut.mp3-d13bd486f9c01f8a76ef95d889288503.mp3str"
+
+[deps]
+
+source_file="res://game jam/Assets/AUDIO/sfx/scp-containment-breach-femur-breaker-sounds-mp3cut.mp3"
+dest_files=["res://.godot/imported/scp-containment-breach-femur-breaker-sounds-mp3cut.mp3-d13bd486f9c01f8a76ef95d889288503.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

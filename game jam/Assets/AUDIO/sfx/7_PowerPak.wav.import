@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dxcflny5uxu7g"
+path="res://.godot/imported/7_PowerPak.wav-8f47488cc9d00c60042bbedaf8769c0f.sample"
+
+[deps]
+
+source_file="res://game jam/Assets/AUDIO/sfx/7_PowerPak.wav"
+dest_files=["res://.godot/imported/7_PowerPak.wav-8f47488cc9d00c60042bbedaf8769c0f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

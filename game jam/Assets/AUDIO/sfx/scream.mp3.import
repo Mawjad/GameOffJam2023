@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://kxu4si8vjb6h"
+path="res://.godot/imported/scream.mp3-bd2120137e4fee4e9a70122981e60c82.mp3str"
+
+[deps]
+
+source_file="res://game jam/Assets/AUDIO/sfx/scream.mp3"
+dest_files=["res://.godot/imported/scream.mp3-bd2120137e4fee4e9a70122981e60c82.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

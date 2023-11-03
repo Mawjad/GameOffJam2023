@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://67knanrxeqlg"
+path="res://.godot/imported/femur-breaker-but-louder.mp3-40ec79cd20e4ede642f21f9e9b62860d.mp3str"
+
+[deps]
+
+source_file="res://game jam/Assets/AUDIO/sfx/femur-breaker-but-louder.mp3"
+dest_files=["res://.godot/imported/femur-breaker-but-louder.mp3-40ec79cd20e4ede642f21f9e9b62860d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
